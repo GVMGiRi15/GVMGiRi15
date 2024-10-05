@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GVMGiRi15
-- 👀 I’m interested in Pyhton Programming/Scripting
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Pyhton Programming/Scripting
+- 👀 I’m interested in Pyhton Programming/Scripting and Data Analysis
+- 🌱 I’m currently learning Python, Data Science and Machine Learning algorithms
+- 💞️ I’m looking to collaborate on Python Programming/Scripting
 - 📫 How to reach me - mohangregeryvino@gmail.com
 
 <!---
